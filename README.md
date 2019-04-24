@@ -18,7 +18,7 @@ wangliheng@k2data.com.cn
 </template>
 
 <script>
-import Jobs from '@/components/kfc-jobs'
+import Jobs from '@/components/kfc-kmx-eaf-job'
 
 export default {
   components: {
